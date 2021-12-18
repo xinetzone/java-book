@@ -1,0 +1,5 @@
+# Java Demo
+
+[![GitHub issues](https://img.shields.io/github/issues/xinetzone/java-demo)](https://github.com/xinetzone/java-demo/issues) [![GitHub forks](https://img.shields.io/github/forks/xinetzone/java-demo)](https://github.com/xinetzone/java-demo/network) [![GitHub stars](https://img.shields.io/github/stars/xinetzone/java-demo)](https://github.com/xinetzone/java-demo/stargazers) [![GitHub license](https://img.shields.io/github/license/xinetzone/java-demo)](https://github.com/xinetzone/java-demo/blob/main/LICENSE) ![repo size](https://img.shields.io/github/repo-size/xinetzone/java-demo.svg) [![contributors](https://img.shields.io/github/contributors/xinetzone/java-demo.svg)](https://github.com/xinetzone/java-demo/graphs/contributors) [![watcher](https://img.shields.io/github/watchers/xinetzone/java-demo.svg)](https://github.com/xinetzone/java-demo/watchers) 
+
+项目启动的详细步骤见：[Java 环境搭建](https://xinetzone.github.io/sphinx-demo/start/java.html)。

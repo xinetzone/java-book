@@ -6,6 +6,7 @@
 :hidden:
 
 install
+basic/index
 faqs/index
 test
 about/index

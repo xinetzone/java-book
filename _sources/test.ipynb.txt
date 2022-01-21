@@ -80,13 +80,13 @@
   "kernelspec": {
    "display_name": "Java",
    "language": "java",
-   "name": "python388jvsc74a57bd0fe9532ae7082525fc6563eaa4eccaa4db9c40f9c7ec21d93a99a18b4cc0dea84"
+   "name": "python3100jvsc74a57bd0d825c9a2cf8155f2b974bd0370267837baa58c4c78e68f4029adefe2a580376c"
   },
   "language_info": {
    "codemirror_mode": "java",
    "file_extension": ".jshell",
    "mimetype": "text/x-java-source",
-   "name": "Java",
+   "name": "java",
    "pygments_lexer": "java",
    "version": "17.0.1+12-Ubuntu-120.04"
   },

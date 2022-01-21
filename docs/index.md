@@ -6,6 +6,7 @@
 :hidden:
 
 install
+faqs/index
 test
 about/index
 ```
